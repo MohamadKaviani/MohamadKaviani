@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=1000&repeat=false&color=34d399&center=true&vCenter=true&width=220&height=35&lines=Tech+Stack" alt="Tech Stack" />
 
 <!-- Transparent-background icons (Devicon + Simple Icons). Change height="36" to resize. -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" height="36" />&nbsp;&nbsp;
