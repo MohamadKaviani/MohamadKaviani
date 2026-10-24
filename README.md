@@ -12,51 +12,32 @@
 
 ---
 
-<!-- ============ ABOUT ME (fill in later) ============
-## About Me
-
-- ...
-- ...
-- ...
-
----
--->
-
 <div align="center">
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,python,django,react,nodejs,nextjs&perline=9&theme=dark" alt="Tech stack" width="360"/>
+<!-- Transparent-background icons (Devicon + Simple Icons). Change height="36" to resize. -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="36" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel&perline=6&theme=dark" alt="Tools" width="240"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" height="30" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/8b949e" alt="GitHub" height="30" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vscode/vscode-original.svg" alt="VS Code" height="30" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" alt="Figma" height="30" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" height="30" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vercel/8b949e" alt="Vercel" height="30" />
 
 </div>
 
 ---
-
-<!-- ============ FEATURED PROJECTS (fill in later) ============
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Project Name**](https://github.com/MohamadKaviani/REPO) | One-line description | ![HTML](https://img.shields.io/badge/-HTML5-000000?logo=html5&logoColor=00ff41&style=flat-square) |
-
----
--->
-
-<!-- ============ CONTACT (fill in later) ============
-## Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:YOUR_EMAIL@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41)](https://t.me/YOUR_TELEGRAM)
-
-</div>
--->
 
 <!-- ============ ANIMATED FOOTER ============ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b12,100:000000&height=70&section=footer" width="100%" alt="Footer"/>
