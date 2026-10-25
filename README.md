@@ -12,6 +12,24 @@
 
 ---
 
+<!-- ============ ABOUT ME ============ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=1000&repeat=false&color=34d399&center=true&vCenter=true&width=220&height=35&lines=About+Me" alt="About Me" />
+
+</div>
+
+👋 Hi, I'm **Mohammad**, a Frontend Developer who loves turning ideas into clean, responsive, and user-friendly interfaces.
+
+- 🔭 Currently focused on **JavaScript, React, and Next.js**
+- 🌱 Building my skills toward becoming a **Full-Stack JavaScript developer**
+- 🎨 I care about **clean code, pixel-perfect UIs, and great user experience**
+- 📚 Always learning: exploring **TypeScript, Python, and Django** along the way
+- 🤝 Open to collaboration, learning opportunities, and interesting projects
+- 📫 Reach me via my [GitHub profile](https://github.com/MohamadKaviani)
+
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=1000&repeat=false&color=34d399&center=true&vCenter=true&width=220&height=35&lines=Tech+Stack" alt="Tech Stack" />
