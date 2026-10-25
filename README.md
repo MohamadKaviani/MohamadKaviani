@@ -53,4 +53,4 @@
 ---
 
 <!-- ============ ANIMATED FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?t
+
