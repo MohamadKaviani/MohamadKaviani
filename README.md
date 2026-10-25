@@ -17,16 +17,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=1000&repeat=false&color=34d399&center=true&vCenter=true&width=220&height=35&lines=About+Me" alt="About Me" />
 
+<br/>
+
+<sub>Hi, I'm <b>Mohammad</b>, a Frontend Developer who enjoys turning ideas into clean, responsive, and user-friendly interfaces.</sub>
+
+<sub>Currently focused on <b>JavaScript, React, and Next.js</b>, and building my skills toward becoming a <b>Full-Stack JavaScript developer</b>.</sub>
+
+<sub>I care about clean code, polished UIs, and great user experience.</sub>
+
+<sub>Always learning: exploring <b>TypeScript, Python, and Django</b> along the way.</sub>
+
+<sub>Open to collaboration, learning opportunities, and interesting projects.</sub>
+
 </div>
-
-👋 Hi, I'm **Mohammad**, a Frontend Developer who loves turning ideas into clean, responsive, and user-friendly interfaces.
-
-- 🔭 Currently focused on **JavaScript, React, and Next.js**
-- 🌱 Building my skills toward becoming a **Full-Stack JavaScript developer**
-- 🎨 I care about **clean code, pixel-perfect UIs, and great user experience**
-- 📚 Always learning: exploring **TypeScript, Python, and Django** along the way
-- 🤝 Open to collaboration, learning opportunities, and interesting projects
-- 📫 Reach me via my [GitHub profile](https://github.com/MohamadKaviani)
 
 ---
 
@@ -41,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" height="36" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" height="36" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" height="36" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" height="36" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" height="36" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" height="36" />
 
@@ -50,4 +53,4 @@
 ---
 
 <!-- ============ ANIMATED FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:0d1117&height=70&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?t
